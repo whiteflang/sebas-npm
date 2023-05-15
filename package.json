@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	{
 		"name": "fcc-learn-npm-package-json",
 		"author": "sebastian",
@@ -16,5 +17,20 @@
 			"type": "git",
 			"url": "https://github.com/whiteflang/sebas-npm.git"
 		}
+=======
+  
+	"author": "Jane Doe",	
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+>>>>>>> 9af17bd3b01be901fb8e75cde8e80d2a21bbb601
 	}
 }
